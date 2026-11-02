@@ -1,0 +1,21 @@
+{
+  "name": "saraha-fixed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousefsaadallam5-crypto/saraha-fixed-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yousefsaadallam5-crypto/saraha-fixed-/issues"
+  },
+  "homepage": "https://github.com/yousefsaadallam5-crypto/saraha-fixed-#readme"
+}
